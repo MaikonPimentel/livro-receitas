@@ -3,4 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas
 
 - Strogonofe de frango
-- Pavê
+- Pavê 2
